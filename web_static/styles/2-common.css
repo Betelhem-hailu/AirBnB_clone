@@ -1,4 +1,9 @@
+/*
+ * === Global style ===
+ */
+
+/* Body style */
 body {
-    color: #FF0000;
-    width: 100%;
+  margin: 0;
+  padding: 0;
 }
